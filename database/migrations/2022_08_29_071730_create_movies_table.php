@@ -22,7 +22,6 @@ class CreateMoviesTable extends Migration
             $table->text('plot');
         });
     }
-
     /**
      * Reverse the migrations.
      *

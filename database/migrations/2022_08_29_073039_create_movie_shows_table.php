@@ -22,6 +22,7 @@ class CreateMovieShowsTable extends Migration
         });
     }
 
+    
     /**
      * Reverse the migrations.
      *
