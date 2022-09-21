@@ -17,7 +17,6 @@ class MovieShowsPlace extends Migration
             $table->foreignId('place_id')->constrained()->cascadeOnDelete();
         });
     }
-
     /**
      * Reverse the migrations.
      *

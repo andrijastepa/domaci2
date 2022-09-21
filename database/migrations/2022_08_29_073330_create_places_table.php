@@ -22,7 +22,6 @@ class CreatePlacesTable extends Migration
             $table->integer('capacity');
         });
     }
-
     /**
      * Reverse the migrations.
      *
